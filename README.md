@@ -6,4 +6,4 @@ My name is Marek and I'm student from Slovakia 🇸🇰 intrested in Software de
 ## How to contact me?
 ### [📫 Write me an email](mailto:marek.lamos16@gmail.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[👨‍💻 Visit my website](https://heun11.github.io/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [📻 Listen to some good vibes](https://open.spotify.com/playlist/1pNDmxcFoi5sA4693qhhJP)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heun11&layout=compact&theme=gruvbox)&nbsp;&nbsp;&nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heun11&show_icons=true&hide=prs,contribs&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heun11&layout=compact&theme=gruvbox)&nbsp;&nbsp;&nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heun11&show_icons=true&hide=issues,contribs&theme=gruvbox)
