@@ -1,4 +1,4 @@
-<h2 align=center>Hi there 👋, I am Marek</h2>
+<h2 align=center>Welcome to my page !</h2>
 <div align=center>
 you can <a href="mailto:marek.lamos16@gmail.com">📫 Write me an email</a> or 
 <a href="https://heun11.github.io">👨‍💻 Visit my website</a>
