@@ -32,10 +32,10 @@
                                                                                                             
     
 <h2></h2>
-<div>
+<h3>
 you can <a href="mailto:marek.lamos16@gmail.com">📫 Write me an email</a> or 
 <a href="https://heun11.github.io">👨‍💻 Visit my website</a>
-</div>
+</h3>
 
 <!-- <div align=center>
   <img width=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heun11&layout=compact&theme=gruvbox" alt="Language usage"/>&nbsp;
